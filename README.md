@@ -1,3 +1,3 @@
 # My-JSON-Server
-Demo
+Demo:
 https://my-json-server.typicode.com/Alexandr-Kachur/My-JSON-Server
